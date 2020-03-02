@@ -13,4 +13,4 @@ By the end of the class, each of them had managed to add or alter a .js file to 
 
 ### screenshot: gitkraken view of branch history
 
-![success!!](/img/two.png)
+![success!!](/img/three.png)
