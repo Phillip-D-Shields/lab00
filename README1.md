@@ -1,6 +1,6 @@
 # Phillip Shields
-# lab00
-## 25/02/20
+# lab01
+## 03/03/20
 
 this class we focused on some of the basic arithmetic operators of javascript. We pair coded in a group of three. We decided that I would be the commander of the group, and the other 2 guys would do all the coding. 
 
