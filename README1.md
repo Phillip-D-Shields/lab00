@@ -10,6 +10,7 @@ One of coders, Luke ran into an issue by cloning into the wrong directory. Short
 
 By the end of the class, each of them had managed to add or alter a .js file to their branch and push it to the origin repo. After, I showed them the beauty of gitkraken gui by merging their branches to the master with two clicks of the mouse. 
 
+[the repo of our groupwork can be found here](https://github.com/Phillip-D-Shields/sdv-group-work)
 
 ### screenshot: gitkraken view of branch history
 
