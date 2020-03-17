@@ -1,0 +1,3 @@
+https://github.com/Phillip-D-Shields/cli-phillip-shields       
+
+i made a cli for you to get the urls for my submissions, check out the readme
