@@ -14,7 +14,7 @@ The class and exercises definitely helped remind me that there is quite a bit of
 
 I did not get to write and code out all the examples we went over, as I was trying to help those sitting around me. But I got a decent amount pushed to my repo.
 
-[the repo of my classwork can be found here](https://github.com/Phillip-D-Shields/sdv503-week2)
+![the repo of my classwork can be found here](https://github.com/Phillip-D-Shields/sdv503-week2)
 
 ### screenshot: code snippet from classwork
 
