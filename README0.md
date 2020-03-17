@@ -15,4 +15,5 @@ The group work with branches was rough, but the practice definitely beneficial f
 ### screenshots include: finished git branching activity, successful index.js of our git master
 
 ![success!](/img/one.png)
+
 ![success!!](/img/two.png)
