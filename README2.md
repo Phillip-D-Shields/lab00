@@ -1,5 +1,5 @@
 # Phillip Shields
-# lab00
+# lab02
 ## 10/03/20
 
 The main thing we focused on this week was the different equality operators, the various use scenarios, and the odd result scenarios.

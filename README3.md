@@ -1,5 +1,5 @@
 # Phillip Shields
-# lab01
+# lab03
 ## 03/17/20
 
 This week we focused mostly on If statements and switch statements. I had a decent previous knowledge of them, but the practice these last two days has definitely helped cement the fundamentals in my head. 
