@@ -12,7 +12,7 @@ Last week, during the break, I did an exercism.io assessment that required me to
 [our git classroom repo can be found here](https://github.com/NMIT-GITHUB/javascript-functions-pair-coding-weka-watch)
 
 
-### screenshot: code snippet from classwork
+### screenshot: code snippet from classwork and lab 4
 ![oh the quokka](/img/nine.png)
 ![decimal to binary](/img/eight.png)
 
