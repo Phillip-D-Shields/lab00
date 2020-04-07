@@ -13,7 +13,7 @@ Last week, during the break, I did an exercism.io assessment that required me to
 
 
 ### screenshot: code snippet from classwork
-![oh the quokka](/img/nine.PNG)
-![decimal to binary](/img/eight.PNG)
+![oh the quokka](/img/nine.png)
+![decimal to binary](/img/eight.png)
 
 

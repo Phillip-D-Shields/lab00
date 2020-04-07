@@ -18,4 +18,4 @@ I did not get to write and code out all the examples we went over, as I was tryi
 
 ### screenshot: code snippet from classwork
 
-![success!!](/img/four.PNG)
+![success!!](/img/four.png)

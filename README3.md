@@ -14,8 +14,8 @@ I also figured out that when writing those types of multi-case switch statements
 
 ### screenshot: code snippet from classwork
 
-![git log](/img/seven.PNG)
+![git log](/img/seven.png)
 
-![traffic light](/img/six.PNG)
+![traffic light](/img/six.png)
 
-![switch multi case statement](/img/five.PNG)
+![switch multi case statement](/img/five.png)
