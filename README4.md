@@ -1,5 +1,5 @@
 # Phillip Shields
-# lab03
+# lab04
 ## 04/07/20
 
 This week we started on parameters and arguments, and carried on working with functions. For me it was a good refresher, and I picked up a few useful tidbits about using ```.length``` arguments and parameters that will be useful when debugging, or just generally trying to figure out why my code isn't working.
